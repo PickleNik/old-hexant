@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "staging": "hexant-apparel",
+    "default": "hexant-apparel"
+  }
+}
